@@ -201,7 +201,7 @@
         <div class="col-lg-8">
 
             <!-- START: Latest Posts -->
-            <h3 class="nk-decorated-h-2"><span><span class="text-main-1">Community </span> Trends</span></h3>
+            <h3 class="nk-decorated-h-2"><span><span class="text-main-1">FAQ</span>(s)</span></h3>
             <div class="nk-gap"></div>
             <div class="nk-blog-grid">
                 <div class="row">
@@ -210,11 +210,19 @@
                     <div class="col-md-6 mb-25">
                         <!-- START: Post -->
                         <div class="nk-blog-post">
-                            <a href="#" class="nk-post-img">
-                                <img src="assets/images/com-1.jpg" alt="">
-                                <span class="nk-post-comments-count">13</span>
-                            </a>
-                            <div class="nk-gap"></div>
+                            <P>
+                                Some text goes here.
+
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                            </p>
+
+                            <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">Click</a>
+                            <!--<div class="nk-gap"></div>
                             	<div class="col-md-9 pull-left">
                                 <div class="nk-post-by mt-0">
                                 <img src="assets/images/com-1.jpg" alt="Wolfenstein" class="img-circle" width="35"> by <a href="#">Satish</a>in Jul 3, 2017 
@@ -224,7 +232,7 @@
                             		<div class="nk-post-date">
                 					<a href="#"><span class="fa fa-thumbs-up"></span> Like</a>
             					</div>
-                            </div>
+                            </div>-->
                             <div class="nk-gap"></div>
                          </div>
                         <!-- END: Post -->
@@ -234,12 +242,19 @@
                     <div class="col-md-6 mb-25">
                         <!-- START: Post -->
                         <div class="nk-blog-post">
-                            <a href="#" class="nk-post-img">
-                                <img src="assets/images/com-2.jpg" alt="">
-                                <span class="nk-post-comments-count">4</span>
-                            </a>
+                            <P>
+                                Some text goes here.
+
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                                Some text goes here.
+                            </p>                            
+                                <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">Click</a>
                             <div class="nk-gap"></div>
-                            	<div class="col-md-9 pull-left">
+                            	<!--<div class="col-md-9 pull-left">
                                 <div class="nk-post-by mt-0">
                                 <img src="assets/images/com-2.jpg" alt="Wolfenstein" class="img-circle" width="35"> by <a href="#">Rajkumar</a>in Jul 3, 2017 
                             </div>
@@ -248,7 +263,7 @@
                             		<div class="nk-post-date">
                 					<a href="#"><span class="fa fa-thumbs-up"></span> Like</a>
             					</div>
-                            </div>
+                            </div>-->
                             <div class="nk-gap"></div>
                          </div>
                         <!-- END: Post -->
