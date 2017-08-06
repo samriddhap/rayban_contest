@@ -111,11 +111,11 @@
 <div class="container">
 
     <!-- START: Image Slider -->
-    <div class="nk-image-slider" data-autoplay="8000">
+    <div class="nk-image-slider" data-autoplay="0000">
         
         
         <div class="nk-image-slider-item">
-            <img src="assets/images/banner-1.jpg" alt="" class="nk-image-slider-img" data-thumb="assets/images/slide-1-thumb.jpg">
+            <img src="assets/images/faqs.jpg" alt="" class="nk-image-slider-img" data-thumb="assets/images/b.jpg">
             
            <div class="nk-image-slider-content">
                 
@@ -127,7 +127,7 @@
             
         </div>
         
-        <div class="nk-image-slider-item">
+        <!--<div class="nk-image-slider-item">
             <img src="assets/images/banner-2.jpg" alt="" class="nk-image-slider-img" data-thumb="assets/images/slide-2-thumb.jpg">
            <!-- 
             <div class="nk-image-slider-content">
@@ -136,7 +136,7 @@
                     <p class="text-white">Now the races of these two have been for some ages utterly extinct, and besides to discourse any further of them would not be at all to my purpose. But the concern I have most at heart is for our Corporation of Poets, from whom I am preparing a petition to your Highness,  to be subscribed with the names of one...</p>
                     <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-white nk-btn-hover-color-main-1">Read More</a>
                 
-            </div>-->
+            </div>
             
         </div>
         
@@ -147,7 +147,7 @@
         
         <div class="nk-image-slider-item">
             <img src="assets/images/banner-4.jpg" alt="" class="nk-image-slider-img" data-thumb="assets/images/slide-5-thumb.jpg"> 
-        </div>
+        </div>-->
         
     </div>
     <!-- END: Image Slider -->
@@ -158,7 +158,8 @@
         <div class="col-lg-4">
             <div class="nk-feature-1">
                 <div class="nk-feature-icon">
-                    <img src="assets/images/icon-gamepad.png" alt="">
+                   <i class="fa fa-gamepad fa-2x" aria-hidden="true"></i>
+
                 </div>
                 <div class="nk-feature-cont">
                     <h3 class="nk-feature-title"><a href="game-zone.php">Question related to games</a></h3>
@@ -170,7 +171,8 @@
         <div class="col-lg-4">
             <div class="nk-feature-1">
                 <div class="nk-feature-icon">
-                    <img src="assets/images/game-zone/forever.png" alt="">
+                    <i class="fa fa-hand-peace-o fa-2x" aria-hidden="true"></i>
+
                 </div>
                 <div class="nk-feature-cont">
                     <h3 class="nk-feature-title"><a href="#">Prizes and vouchers</a></h3>
@@ -182,7 +184,7 @@
         <div class="col-lg-4">
             <div class="nk-feature-1">
                 <div class="nk-feature-icon">
-                    <img src="assets/images/game-zone/catalog.png" alt="">
+                    <i class="fa fa-trophy fa-3x" aria-hidden="true"></i>
                 </div>
                 <div class="nk-feature-cont">
                     <h3 class="nk-feature-title"><a href="#">Ray-Ban Catalog </a></h3>
@@ -270,7 +272,7 @@
                     </div>
                     
                     <div class="col-md-6 mb-25">
-                        <!-- START: Post -->
+                        <!-- START: Post 
                         <div class="nk-blog-post">
                             <a href="#" class="nk-post-img">
                                 <img src="assets/images/com-3.jpg" alt="">
@@ -293,7 +295,7 @@
                     </div>
                     
                     <div class="col-md-6 mb-25">
-                        <!-- START: Post -->
+                        <!-- START: Post 
                         <div class="nk-blog-post">
                             <a href="#" class="nk-post-img">
                                 <img src="assets/images/com-4.jpg" alt="">
@@ -316,14 +318,14 @@
                     </div>
                     
                 </div>
-                <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">Open Community</a>
+                <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">Got what you're looking for ?</a>
             </div>
             <!-- END: Latest Posts -->
         </div>
         <div class="col-lg-4">
             <aside class="nk-sidebar nk-sidebar-right nk-sidebar-sticky">
                 
-<div class="nk-widget nk-widget-highlighted">
+<!--<div class="nk-widget nk-widget-highlighted">
     <h4 class="nk-widget-title"><span><span class="text-main-1">Score</span> Card</span></h4>
     <div class="nk-widget-content nk-teammate-card">
         <div class="nk-teammate-card-info">
@@ -357,15 +359,15 @@
                     </table>
                 </div>
     </div>
-</div>
-<div class="nk-widget nk-widget-highlighted">
+</div>-->
+<!--<div class="nk-widget nk-widget-highlighted">
     <h4 class="nk-widget-title"><span><span class="text-main-1">Latest</span> Video</span></h4>
     <div class="nk-widget-content">
         <div class="nk-plain-video" data-video="https://www.youtube.com/embed/Psmq6yrbq68"></div>
     </div>
 </div></aside>
             <!-- END: Sidebar -->
-        </div>
+        <!--</div>
     </div>
     <!-- END: Community -->
 
