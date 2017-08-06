@@ -38,6 +38,8 @@
                     <li><a href="#">Collections 2016</a></li>
         		</ul>
         </li>
+
+        <li><a href="faq.php">FAQ</a></li>
         <li><a href="knowledge-bank.php">Knowledge Bank</a></li>
         <li><a href="gallery.php">Gallery</a></li>
         <li class=" nk-drop-item"><a href="#">User</a>

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Ray-Ban | Knowledge Base</title>
+    <title>Ray-Ban | Knowledge Bank</title>
 
     <meta name="description" content="Ray-Ban - Community contest platform">
     <meta name="keywords" content="">
@@ -119,7 +119,7 @@
 <div class="nk-gap-1"></div>
 <div class="container">
     <ul class="nk-breadcrumbs">
-         <li><a href="#">Knowledge Base</a></li>
+         <li><a href="#">Knowledge Bank</a></li>
 
          <li><span align='center'> Latest Collections</span></li>
         
@@ -174,6 +174,79 @@
                             </a>
                             <div class="nk-gap"></div>
                             <h2 class="nk-post-title h4"><a href="#">Trendy Collection</a></h2>
+                            
+                            <div class="nk-gap"></div>
+                            <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">See Collection</a>
+                        </div>
+                        <!-- END: Post -->
+                    </div>
+                    
+                    
+                </div>
+            </div>
+
+
+
+
+            <div class="nk-main">
+        
+            <!-- START: Breadcrumbs -->
+<div class="nk-gap-1"></div>
+<div class="container">
+    <ul class="nk-breadcrumbs">
+         <li><span align='center'>Downloads</span></li>
+        
+    </ul>
+</div>
+<div class="nk-gap-1"></div>
+<!-- END: Breadcrumbs -->
+        
+<div class="container">
+    <div class="nk-gap-4"></div>
+    <!-- START: Categories -->
+    <div class="nk-blog-grid">
+                <div class="row">
+                    
+                    
+                    <div class="col-md-4">
+                        <!-- START: Post -->
+                        <div class="nk-blog-post">
+                            <a href="#" class="nk-post-img">
+                                <img src="assets/images/downloads.jpg" height='180px' width='120px' alt="">
+                            </a>
+                            <div class="nk-gap"></div>
+                            <h2 class="nk-post-title h4"><a href="#">Featured Downloads</a></h2>
+                            
+                            <div class="nk-gap"></div>
+                            <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">View Collection</a>
+                        </div>
+                        <!-- END: Post -->
+                    </div>
+                
+                    
+                    <div class="col-md-4">
+                        <!-- START: Post -->
+                        <div class="nk-blog-post">
+                            <a href="#" class="nk-post-img">
+                                <img src="assets/images/downloads.jpg" height='180px' width='120px' alt="">
+                            </a>
+                            <div class="nk-gap"></div>
+                            <h2 class="nk-post-title h4"><a href="#">Most Downloaded</a></h2>
+                            
+                            <div class="nk-gap"></div>
+                            <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">See Collection</a>
+                        </div>
+                        <!-- END: Post -->
+                    </div>
+
+                     <div class="col-md-4">
+                        <!-- START: Post -->
+                        <div class="nk-blog-post">
+                            <a href="#" class="nk-post-img">
+                                <img src="assets/images/downloads2.jpg" height='180px' width='120px' alt="">
+                            </a>
+                            <div class="nk-gap"></div>
+                            <h2 class="nk-post-title h4"><a href="#">Lateset downloads</a></h2>
                             
                             <div class="nk-gap"></div>
                             <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-dark-3 nk-btn-hover-color-main-1">See Collection</a>
