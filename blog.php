@@ -190,6 +190,26 @@
             </div>
     <!-- END: Categories -->
     <div class="nk-gap-2"></div>
+    <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://ethidox.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+                            
     <div class="nk-gap-2"></div>
     <div class="nk-gap-2"></div>
     <!-- END: Most Popular -->
@@ -274,8 +294,10 @@
 <script src="assets/js/goodgames-init.js"></script>
 <!-- END: Scripts -->
 
-
-    
+<!--
+Disqus Comments
+-->
+<script id="dsq-count-scr" src="//ethidox.disqus.com/count.js" async></script>
 </body>
 
 <!-- Mirrored from html.nkdev.info/goodgames/store.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 May 2017 05:48:00 GMT -->
