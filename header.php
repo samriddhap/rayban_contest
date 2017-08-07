@@ -40,11 +40,13 @@
         </li>
 
         <li><a href="faq.php">FAQ</a></li>
+
+        <li><a href="blog.php">BLog</a></li>
         <li><a href="knowledge-bank.php">Knowledge Bank</a></li>
         <li><a href="gallery.php">Gallery</a></li>
         <li class=" nk-drop-item"><a href="#">User</a>
         	<ul class="dropdown">
-             <li><a href="#">Score Board</a></li>
+             <li><a href="scoreboard.php">Score Board</a></li>
              <li><a href="#">Reedem Points</a></li>
              <li><a href="#">My Profile</a></li>
         	 <li><a href="#">Logout</a></li>

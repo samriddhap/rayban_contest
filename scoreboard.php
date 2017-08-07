@@ -127,99 +127,151 @@ like -->
 <div class="nk-gap-1"></div>
 <div class="container">
     <ul class="nk-breadcrumbs">
-         <li><a href="#">Latest</a></li>
-         <li><span>Blog Posts</span></li>
+         <li><a href="#"></a></li>
+         <li><span>Scoreboard</span></li>
         
     </ul>
 </div>
 <div class="nk-gap-1"></div>
 <!-- END: Breadcrumbs -->
         
-<div class="container">
-    <!-- START: Categories -->
-    <div class="nk-popup-gallery">
-                <div class="row vertical-gap">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="nk-gallery-item-box">
-                            <a href="assets/images/blog3.jpg" class="nk-gallery-item" data-size="1016x572">
-                                <div class="nk-gallery-item-overlay"><span class="ion-eye"></span></div>
-                                <img src="assets/images/blog3.jpg" height="200px" width="150px" alt="">
-                            </a>
-                            <div class="nk-gallery-item-description">
-                                Fulll posts goes here.Fulll posts goes here.Fulll posts goes here.Fulll posts goes here.Fulll posts goes hereFulll posts goes here.Fulll posts goes here.Fulll posts goes here.Fulll posts goes here.Fulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes here.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="nk-gallery-item-box">
-                            <a href="assets/images/blog.jpg" class="nk-gallery-item" data-size="1188x594">
-                                <div class="nk-gallery-item-overlay"><span class="ion-eye"></span></div>
-                                <img src="assets/images/blog.jpg" height="200px" width="150px"  alt="">
-                            </a>
-                            <div class="nk-gallery-item-description">Fulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereorning fill. Living so second darkness. Moveth were male. May creepeth. Be tree fourth.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="nk-gallery-item-box">
-                            <a href="assets/images/blog2.jpg" class="nk-gallery-item" data-size="625x350">
-                                <div class="nk-gallery-item-overlay"><span class="ion-eye"></span></div>
-                                <img src="assets/images/blog2.jpg" height="200px" width="150px"  alt="">
-                            </a>
-                            <div class="nk-gallery-item-description">Fulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereFulll posts goes hereorning fill. Living so second darkness. Moveth were male. May creepeth. Be tree fourth.
-                            </div>
-                     
-                        </div>
-                    </div>
-                    <div class="fb-like" data-href="https://ethidox.com" data-width="100" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+<!--scoreboard-->
+<div class="nk-gap-2"></div>
+    <div class="row vertical-gap">
+        <div class="col-lg-4">
+            <div class="nk-widget nk-widget-highlighted">
+    <h4 class="nk-widget-title"><span><span class="text-main-1">Score</span> Card</span></h4>
+    <div class="nk-widget-content nk-teammate-card">
+        <div class="nk-teammate-card-info">
+                    <table>
+                        <tbody>
+                        <tr>
+                            <td colspan="2">
+                                <table>
+                                    <tbody>
+                                    <tr>
+                                        <td><strong class="h5">Name:</strong>&nbsp;&nbsp;&nbsp;</td>
+                                        <td><strong class="h5">SANG-HYEOK LEE</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong class="h5">Team:</strong>&nbsp;&nbsp;&nbsp;</td>
+                                        <td><strong class="h5">Delhi</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong class="h5">Score:</strong>&nbsp;&nbsp;&nbsp;</td>
+                                        <td><strong class="h5">80</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong class="h5">Level:</strong>&nbsp;&nbsp;&nbsp;</td>
+                                        <td><strong class="h5">3</strong></td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong class="h3">60</strong>
+                            </td>
+                            <td>
+                                <strong class="h5">Rapid Fire</strong>
+                                <div>Game A</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong class="h3">20</strong>
+                            </td>
+                            <td>
+                                <strong class="h5">Puzzle</strong>
+                                <div>Game B</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong class="h3">0</strong>
+                            </td>
+                            <td>
+                                <strong class="h5">Compare Pics</strong>
+                                <div>Game C</div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+    </div>
+</div>
 
-                    <!--<div class="col-lg-4 col-md-6">
-                        <div class="nk-gallery-item-box">
-                            <a href="assets/images/lg-sb6.jpg" class="nk-gallery-item" data-size="873x567">
-                                <div class="nk-gallery-item-overlay"><span class="ion-eye"></span></div>
-                                <img src="assets/images/sunburn4.jpg" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="nk-gallery-item-box">
-                            <a href="assets/images/lg-sb11.jpg" class="nk-gallery-item" data-size="471x269">
-                                <div class="nk-gallery-item-overlay"><span class="ion-eye"></span></div>
-                                <img src="assets/images/sunburn5.jpg" alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="nk-gallery-item-box">
-                            <a href="assets/images/lg-sb14.jpg" class="nk-gallery-item" data-size="472x438">
-                                <div class="nk-gallery-item-overlay"><span class="ion-eye"></span></div>
-                                <img src="assets/images/sunburn6.jpg" alt="">
-                            </a>
-                        </div>
-                    </div>-->
+        </div>
+        <div class="col-lg-4">
+            <div class="nk-feature-1">
+                <div class="nk-feature-icon">
+                    <i class="fa fa-hand-peace-o fa-2x" aria-hidden="true"></i>
+
+                </div>
+                <div class="nk-feature-cont">
+                    <h3 class="nk-feature-title"><a href="#">Top playes</a></h3>
+                    <p>See who is rocking ahead of you</p>
+                    <table>
+                        <tbody>
+                        <tr>
+                            <td colspan="2">
+                                <table>
+                                    <tbody>
+                                            <tr>
+                                                <td><strong class="h5 nk-feature-title text-main-1">Name</strong>&nbsp;&nbsp;&nbsp;</td>
+                                                <td><strong class="h5">#1</strong></td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong class="h5 nk-feature-title text-main-1">Team:</strong>&nbsp;&nbsp;&nbsp;</td>
+                                                <td><strong class="h5">Delhi</strong></td>
+                                            </tr>
+                                    </tbody>
+
+                                    <tbody>
+                                            <tr>
+                                                <td><strong class="h5 nk-feature-title text-main-1">Rank</strong>&nbsp;&nbsp;&nbsp;</td>
+                                                <td><strong class="h5">#3</strong></td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong class="h5 nk-feature-title text-main-1">Team:</strong>&nbsp;&nbsp;&nbsp;</td>
+                                                <td><strong class="h5">NCR</strong></td>
+                                            </tr>
+                                    </tbody>
+
+
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <br>
+                    <h4 class="nk-feature-title text-main-1"><a href="#">Name</a></h4>
+
+                    <br>
+                    <h4 class="nk-feature-title text-main-1"><a href="#">Name</a></h4>
+
+                    <br>
+                    <h4 class="nk-feature-title text-main-1"><a href="#">Name</a></h4>
+
                 </div>
             </div>
-    <!-- END: Categories -->
-    <div class="nk-gap-2"></div>
-    <div id="disqus_thread"></div>
-<script>
+        </div>
+        <div class="col-lg-4">
+            <div class="nk-feature-1">
+                <div class="nk-feature-icon">
+                    <i class="fa fa-trophy fa-3x" aria-hidden="true"></i>
+                </div>
+                <div class="nk-feature-cont">
+                    <h3 class="nk-feature-title"><a href="#">Position </a></h3>
+                    <p>Rookie</p>
+                    <h4 class="nk-feature-title text-main-1">Level 5</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--end scoreboard-->
+    
 
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://ethidox.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
                             
     <div class="nk-gap-2"></div>
     <div class="nk-gap-2"></div>
@@ -235,8 +287,8 @@ s.setAttribute('data-timestamp', +new Date());
 </div>
 <!-- START: Page Background -->
 
-    <img class="nk-page-background-top" src="assets/images/bg-top-4.png" alt="">
-    <img class="nk-page-background-bottom" src="assets/images/bg-bottom.png" alt="">
+    <img class="nk-page-background-top" src="assets/images/game.jpg" alt="">
+    <img class="nk-page-background-bottom" src="assets/images/game.jpg" alt="">
 
 <!-- END: Page Background -->
 
@@ -305,11 +357,7 @@ s.setAttribute('data-timestamp', +new Date());
 <script src="assets/js/goodgames-init.js"></script>
 <!-- END: Scripts -->
 
-<!--
-Disqus Comments
--->
-<script id="dsq-count-scr" src="//ethidox.disqus.com/count.js" async></script>
-</body>
+
 
 <!-- Mirrored from html.nkdev.info/goodgames/store.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 10 May 2017 05:48:00 GMT -->
 </html>
